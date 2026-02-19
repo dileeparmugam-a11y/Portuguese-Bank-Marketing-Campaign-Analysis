@@ -28,6 +28,7 @@ Gamma – Business Presentation (PPT)
 Jupyter Notebook – Development Environment
 
 🔄 Project Workflow
+
 1️⃣ Data Preparation (Python)
 Loaded dataset using Pandas
 Handled missing values (imputed review ratings)
@@ -56,6 +57,7 @@ Developed strategic recommendations
 Created professional presentation using Gamma
 
 📊 Key Insights
+
 Male customers generated significantly higher revenue compared to female customers
 80% of customers fall into the Loyal segment, indicating strong retention
 73% of customers are non-subscribers despite similar spending patterns
@@ -63,6 +65,7 @@ Express shipping customers have higher average purchase value
 Certain products are heavily discount-dependent, impacting margins
 
 📈 Business Recommendations
+
 Improve subscription conversion strategy
 Implement targeted loyalty programs
 Re-evaluate discount strategy
@@ -70,6 +73,7 @@ Promote high-rated products strategically
 Focus on high-value customer segments
 
 ▶️ How to Run
+
 🔹 Python
 pip install pandas numpy matplotlib seaborn
 Run the Jupyter Notebook sequentially for data cleaning and EDA.
@@ -93,4 +97,5 @@ Refresh data to view dashboard
 ✔ Business Insight Generation
 
 📌 Conclusion
+
 This project demonstrates the ability to transform raw data into meaningful insights through structured analysis and visualization. It highlights technical expertise in Python, SQL, and Power BI, along with strong business understanding and data storytelling skills.
